@@ -10,7 +10,7 @@
 
 <div><br></di>
 
-- I'm a brazillian guy, I've been work as software developer for more than 6 years;
+- I've been work as software developer for more than 6 years;
 - Theses is my currents subject of study: to keep improving English, update Typescript knowledge and learnning devOps;
 - My own langage it's Portuguese, I've good capacity to speak English and I know to speak a few Spanish as well;
 
