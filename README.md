@@ -29,12 +29,14 @@
   <img align="center" alt="alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+##
+
 ### Databases
 
 <div style="display: inline_block"><br>
   <img align="center" alt="alan-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="alan-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="alan-SqlServer" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="alan-SqlServer" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="alan-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">  
 </div>
 
@@ -42,6 +44,6 @@
 
 <div align="center">
   <a href="https://github.com/alannovais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
 </div>
