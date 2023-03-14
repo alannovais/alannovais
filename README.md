@@ -11,8 +11,8 @@
 <div><br></di>
 
 - I've been work as software developer for more than 6 years;
-- Theses is my currents subject of study: to keep improving English, imrpoving react`s knowledge;
-- My own language is Portuguese, I've good English skils and I know to speak a few Spanish as well;
+- Theses is my current subject of study: to keep improving English, improving react knowledge;
+- My own language is Portuguese, I've good English skills and I know to speak a few Spanish as well;
 
 ##
 
