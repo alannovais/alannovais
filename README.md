@@ -1,6 +1,6 @@
 ### Welcome, I'm Alan ###
 
-<div><br></di>
+<div><br></div>
 
 <div>
   <a href="https://www.linkedin.com/in/alan-novais-866803a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -8,7 +8,7 @@
   <a href="mailto:alannovais08@gmail.com?subject=Let%27s%20gonna%20talk" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>
 
-<div><br></di>
+<div><br></div>
 
 - I've been work as software developer for more than 6 years;
 - Theses is my current subject of study: to keep improving English, improving react knowledge;
@@ -43,8 +43,12 @@
 ##
 
 <div align="center">
-  <div style="display: flex; flex-direction: 'row'; justify-content: 'center'; align-items: 'center'">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center">
+    <div>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alannovais&&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+      </div>
+    <div>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
+      </div>
   </div>
 </div>
