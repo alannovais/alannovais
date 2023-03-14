@@ -43,7 +43,7 @@
 ##
 
 <div style="display: inline_block" align="center">
-  <img height="180em" width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alannovais&&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
+  <img height="180em" width="450" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alannovais&&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
   </div>
 </div>
