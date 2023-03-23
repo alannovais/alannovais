@@ -44,7 +44,7 @@
 
 ### Hey everyone!
 
-#### Theses are my good projects, you can check out the basics things what I'm able to do, see you soon.
+#### You can check out the basics things which I'm able to do, in theses projects bellow, see you soon.
 
 <div>
   <div>
