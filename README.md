@@ -51,7 +51,7 @@
     <h5>JS and frameworks</h5>
     <a href="https://github.com/alannovais/react-natitve-review">React Native</a>
     | <a href="https://github.com/alannovais/review-vue3-project">Vue.js</a>
-    | <a href="https://github.com/alannovais/angular-chatbot">Angular > I'll improve this project</a>
+    | <a href="https://github.com/alannovais/nx-star-wars">Angular</a>
   </div>
   <div>
     <h5>SpringBoot and RabbitMQ</h5>
