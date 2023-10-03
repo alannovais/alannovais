@@ -9,9 +9,9 @@
 
 <div><br></div>
 
-- I've been work as software developer for more than 6 years;
-- Theses is my current subject of study: to keep improving English, improving react knowledge;
-- My own language is Portuguese, I've good English skills and I know to speak a few Spanish as well;
+- I've been work as a software developer for more than 6 years;
+- My current study subjects there are keepping improve English, I'm studing French and DevOps;
+- About languages I'm able to comunicate: I'm native speaker Portuguese; English and Spanish levels it is between B2 and C1;
 
 ##
 
@@ -69,7 +69,13 @@
 ##
 
 <div align="center">
-  <img height="180em" width="450" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alannovais&&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
-  </div>
+  <picture>
+    <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true" />
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alannovais&repo=wit-calculator" />
+  </picture>
 </div>
