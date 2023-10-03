@@ -75,7 +75,4 @@
   <picture>
     <img src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true" />
   </picture>
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alannovais&repo=wit-calculator" />
-  </picture>
 </div>
