@@ -44,7 +44,7 @@
 
 ### Hey everyone!
 
-#### You can check out the basics things which I'm able to do, in theses projects bellow, see you soon.
+#### You can check out the some things which I can do, in theses projects bellow. See you soon.
 
 <div>
   <div>
