@@ -8,11 +8,11 @@
 </div>
 
 <div><br></div>
-
-- I've been work as a software developer for more than 6 years;
-- My current study subjects there are keepping improve English, I'm studing French and DevOps;
-- About languages I'm able to comunicate: I'm native speaker Portuguese; English and Spanish levels it is between B2 and C1;
-
+  Hello everybody!
+  I've been working as a software developer over than 6 years, I had opportunity to work in so many teams, this helped to learn and share knowledges as person and professonal with other peaple. 
+  Great part of my profesional life I worked as a fullstack developer, however I had amazing experiences in front and crossplatform.
+  Currently I'm focused to keepp improving my English level and I started to study French and DevOps.
+  
 ##
 
 ### Languages and Frameworks
