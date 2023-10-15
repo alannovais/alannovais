@@ -1,4 +1,4 @@
-## Welcome, I'm Alan Novais ##
+## Welcome, I'm Alan Novais
 
 <div>
   <h3>Contacts</h3>
@@ -68,6 +68,7 @@
 
 ##
 
-<div align="center" style="display: inline_block">
-  <p><img style="width: 28vw; heigth: 20vh;" src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true" /> <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/></p>
+<div align="center" style="display: flex; flex-direction: row;">
+  <div><img style="width: 28vw; heigth: 20vh;" src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true" /></div>
+  <div><img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/></div>
 </div>
