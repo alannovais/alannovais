@@ -39,7 +39,7 @@ Currently I'm focused to keep improving my English level and I started to study 
 
 ##
 
-### Check out bellow some projects. See you soon.
+### Check out bellow some projects.
 
 <div>
   <div>
