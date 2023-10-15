@@ -1,20 +1,17 @@
 ## Welcome, I'm Alan Novais
 
+Hello everybody!
+I've been working as a software developer over than 6 years, I had opportunity to work in so many teams, this were helped to improve my soft and hard skills become better professional and individual. 
+About my professional side, great part of my profesional life, I worked as a fullstack developer, however I had amazing experiences in front-end and building mobile apps using cross-platform technologies.
+Currently I'm focused to keep improving my English level and I started to study French and some DevOps subjects.
+
 <div>
-  <h3>Contacts</h3>
   <a href="https://www.linkedin.com/in/alan-novais-866803a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://wa.me/+351965623458?text=Hello%20I%20found%20your%20profile%20on%20GitHub%2C%20I%27d%20like%20to%20talk%20with%20you" target="_blank"><img     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:alannovais08@gmail.com?subject=Let%27s%20gonna%20talk" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>
 
-<div><br></div>
-Hello everybody!
-I've been working as a software developer over than 6 years, I had opportunity to work in so many teams, this were helped to improve my soft and hard skills become better professional and individual. 
-About my professional side, great part of my profesional life, I worked as a fullstack developer, however I had amazing experiences in front-end and building mobile apps using cross-platform technologies.
-Currently I'm focused to keep improving my English level and I started to study French and some DevOps subjects. 
-  
 ##
-
 ### Languages and Frameworks
 
 <div style="display: inline_block"><br>
@@ -42,9 +39,7 @@ Currently I'm focused to keep improving my English level and I started to study 
 
 ##
 
-### Hey everyone!
-
-#### You can check out the some things which I can do, in theses projects bellow. See you soon.
+### Check out bellow some projects. See you soon.
 
 <div>
   <div>
