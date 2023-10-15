@@ -68,6 +68,6 @@
 
 ##
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <p><img style="width: 28vw; heigth: 20vh;" src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true" /> <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/></p>
 </div>
