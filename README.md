@@ -8,10 +8,10 @@
 </div>
 
 <div><br></div>
-  Hello everybody!
-  I've been working as a software developer over than 6 years, I had opportunity to work in so many teams, this helped to learn and share knowledges as person and professonal with other peaple. 
-  Great part of my profesional life I worked as a fullstack developer, however I had amazing experiences in front and crossplatform.
-  Currently I'm focused to keepp improving my English level and I started to study French and DevOps.
+Hello everybody!
+I've been working as a software developer over than 6 years, I had opportunity to work in so many teams, this were helped to improve my soft and hard skills become better professional and individual. 
+About my professional side, great part of my profesional life, I worked as a fullstack developer, however I had amazing experiences in front-end and building mobile apps using cross-platform technologies.
+Currently I'm focused to keep improving my English level and I started to study French and some DevOps subjects. 
   
 ##
 
