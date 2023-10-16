@@ -12,32 +12,42 @@ Currently I'm focused to keep improving my English level and I started to study 
 </div>
 
 ##
-### Languages and Frameworks
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="alan-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="alan-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="alan-Reactjs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">  
-  <img align="center" alt="alan-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">  
-  <img align="center" alt="alan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img align="center" alt="alan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="alan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+### Stacks
+<div align='center'>
+<table>
+  <thead>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Databases</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img align="center" alt="alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="alan-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+        <img align="center" alt="alan-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+        <img align="center" alt="alan-Reactjs" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">  
+        <img align="center" alt="alan-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">  
+        <img align="center" alt="alan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+      </td>
+      <td>
+        <img align="center" alt="alan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+        <img align="center" alt="alan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+        <img align="center" alt="alan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      </td>
+      <td>
+        <img align="center" alt="alan-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+        <img align="center" alt="alan-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+        <img align="center" alt="alan-SqlServer" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+        <img align="center" alt="alan-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">  
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
-
-##
-
-### Databases
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="alan-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="alan-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="alan-SqlServer" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="alan-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">  
-</div>
-
-##
 
 ### Check out bellow some projects.
 
@@ -62,8 +72,9 @@ Currently I'm focused to keep improving my English level and I started to study 
 </div>
 
 ##
-
-<p float="left">
-  <img style="width: 25vw; heigth: auto;" src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true" />
-  <img height="164" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
-</p>
+<div align='center'>
+  <p float="left">
+    <img style="width: 25vw; heigth: auto;" src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true" />
+    <img height="164" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
+  </p>
+</div>
