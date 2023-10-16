@@ -64,6 +64,6 @@ Currently I'm focused to keep improving my English level and I started to study 
 ##
 
 <p float="left">
-  <img style="width: 22vw; heigth: auto;" src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true" />
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
+  <img style="width: 25vw; heigth: auto;" src="https://github-readme-stats.vercel.app/api?username=alannovais&show_icons=true" />
+  <img height="164" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannovais&layout=compact&langs_count=7&theme=dracula&theme=transparent"/>
 </p>
