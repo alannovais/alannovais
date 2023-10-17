@@ -1,8 +1,8 @@
 ### Hi! I'm Alan Novais.
 
 <p>
-  That's a slice of me, I love news because give the opportunity to overcome myself, that was one of the reasons I decided to move for another country, I'm looking for to improve my hard skills and also searching best quality life.<br> 
-  I've been working as a software developer over than 6 years, great part of my profesional life, I worked as a fullstack developer, however I had amazing experiences in frontend and building mobile apps using   cross-platform technologies.<br>
+  📌 About me, I love news because give me the opportunity to overcome myself, that was one of the reasons I decided to move for another country, I'm looking for to improve my hard skills and also searching best quality life.<br> 
+  I've been working as a software developer over than 6 years, in my profesional life I worked as a fullstack and frontend developer, and also builded mobile apps using cross-platform technologies.<br>
   Currently I'm focused to keep improving my English level and I started to study French, ça va? 👋🏽, and some DevOps subjects.
 </p>
 
