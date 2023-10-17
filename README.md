@@ -1,9 +1,8 @@
-## Welcome, I'm Alan Novais
+### Hi! I'm Alan Novais.
 
-Hello everybody!
-I've been working as a software developer over than 6 years, I had opportunity to work in so many teams, this were helped to improve my soft and hard skills become an better professional and individual.  
-About my professional side, great part of my profesional life, I worked as a fullstack developer, however I had amazing experiences in front-end and building mobile apps using cross-platform technologies.  
-Currently I'm focused to keep improving my English level and I started to study French and some DevOps subjects.
+<p>I've been working as a software developer over than 6 years, I worked in so many teams, this gave me opportunity to improve my soft and hard skills become an better professional and individual.  
+About my professional side, great part of my profesional life, I worked as a fullstack developer, however I had amazing experiences in frontend and building mobile apps using cross-platform technologies.  
+Currently I'm focused to keep improving my English level and I started to study French, ça va? 👋🏽, and some DevOps subjects.</p>
 
 <div>
   <a href="https://www.linkedin.com/in/alan-novais-866803a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -13,7 +12,7 @@ Currently I'm focused to keep improving my English level and I started to study 
 
 ##
 
-### Stacks
+**Stacks**
 <div align='center'>
 <table>
   <thead>
@@ -49,26 +48,25 @@ Currently I'm focused to keep improving my English level and I started to study 
 </table>
 </div>
 
-### Check out bellow some projects.
-
-<div>
-  <div>
-    <h5>JS and frameworks</h5>
-    <a href="https://github.com/alannovais/react-natitve-review">React Native</a>
-    | <a href="https://github.com/alannovais/review-vue3-project">Vue.js</a>
-    | <a href="https://github.com/alannovais/nx-star-wars">Angular</a>
-  </div>
-  <div>
-    <h5>SpringBoot and RabbitMQ</h5>
-    <a href="https://github.com/alannovais/wit-calculator">Calculator</a> |
-    <a href="https://github.com/alannovais/wit-library">Libary</a> |
-    <a href="https://github.com/alannovais/wit-angular">Angular</a> |
-    <a href="https://github.com/alannovais/wit-rest">Rest</a>
-  </div>
-  <div>
-    <h5>Laravel</h5>
-    <a href="https://github.com/alannovais/avansys-28-09">Vue.js and Laravel</a>
-  </div>
+##
+**Check out bellow some projects.**
+<div align='center'>
+  <table border="0">
+    <thead>
+     <tr>
+        <td><b style="font-size:30px">JS and frameworks</b></td>
+        <td><b style="font-size:30px">SpringBoot and RabbitMQ</b></td>
+       <td><b style="font-size:30px">Laravel</b></td>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+        <td><a href="https://github.com/alannovais/react-natitve-review">React Native</a> | <a href="https://github.com/alannovais/review-vue3-project">Vue.js</a> | <a href="https://github.com/alannovais/nx-star-        wars">Angular</a></td>
+        <td><a href="https://github.com/alannovais/wit-calculator">Calculator</a> | <a href="https://github.com/alannovais/wit-library">Libary</a> | <a href="https://github.com/alannovais/wit-angular">Angular</a> |          <a href="https://github.com/alannovais/wit-rest">Rest</a></td>
+       <td><a href="https://github.com/alannovais/avansys-28-09">Vue.js and Laravel</a></td>
+     </tr>
+    </tbody>
+  </table>
 </div>
 
 ##
