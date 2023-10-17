@@ -1,8 +1,10 @@
 ### Hi! I'm Alan Novais.
 
-<p>I've been working as a software developer over than 6 years, I worked in so many teams, this gave me opportunity to improve my soft and hard skills become an better professional and individual.  
-About my professional side, great part of my profesional life, I worked as a fullstack developer, however I had amazing experiences in frontend and building mobile apps using cross-platform technologies.  
-Currently I'm focused to keep improving my English level and I started to study French, ça va? 👋🏽, and some DevOps subjects.</p>
+<p>
+  That's a slice of me, I love news because give the opportunity to overcome myself, that was one of the reasons I decided to move for another country, I'm looking for to improve my hard skills and also searching best quality life.<br> 
+  I've been working as a software developer over than 6 years, great part of my profesional life, I worked as a fullstack developer, however I had amazing experiences in frontend and building mobile apps using   cross-platform technologies.<br>
+  Currently I'm focused to keep improving my English level and I started to study French, ça va? 👋🏽, and some DevOps subjects.
+</p>
 
 <div>
   <a href="https://www.linkedin.com/in/alan-novais-866803a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
