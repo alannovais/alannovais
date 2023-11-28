@@ -63,8 +63,8 @@
     </thead>
     <tbody>
      <tr>
-        <td><a href="https://github.com/alannovais/react-natitve-review">React Native</a> | <a href="https://github.com/alannovais/review-vue3-project">Vue.js</a> | <a href="https://github.com/alannovais/nx-star-        wars">Angular</a></td>
-        <td><a href="https://github.com/alannovais/wit-calculator">Calculator</a> | <a href="https://github.com/alannovais/wit-library">Libary</a> | <a href="https://github.com/alannovais/wit-angular">Angular</a> |          <a href="https://github.com/alannovais/wit-rest">Rest</a></td>
+        <td><a href="https://github.com/alannovais/react-natitve-review">React Native</a> | <a href="https://github.com/alannovais/review-vue3-project">Vue.js</a> | <a href="https://github.com/alannovais/nx-star-wars">Angular</a></td>
+        <td><a href="https://github.com/alannovais/wit-calculator">Calculator</a> | <a href="https://github.com/alannovais/wit-library">Libary</a> | <a href="https://github.com/alannovais/wit-angular">Angular</a> | <a href="https://github.com/alannovais/wit-rest">Rest</a></td>
        <td><a href="https://github.com/alannovais/avansys-28-09">Vue.js and Laravel</a></td>
      </tr>
     </tbody>
