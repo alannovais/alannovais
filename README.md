@@ -5,6 +5,9 @@
   
   I love to learn new things because it allows me to overcome myself, that was one of the reasons I decided to move to another country, I'm looking to improve my hard and soft skills.
 
+[CV English](https://drive.google.com/file/d/1QNBpzoqJxvAjaEa1-Jkq8-yfl7nwqcUr/view?usp=sharing)
+[CV Portuguese](https://drive.google.com/file/d/1pw2pg1-pxgaJWL9GGQEYPBl51kh_L8iW/view?usp=sharing)
+
 <a href="https://www.linkedin.com/in/alannovais" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://wa.me/+351965623458?text=Hello%20I%20found%20your%20profile%20on%20GitHub%2C%20I%27d%20like%20to%20talk%20with%20you" target="_blank"><img     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="mailto:alannovais08@gmail.com?subject=Let%27s%20gonna%20talk" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
